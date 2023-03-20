@@ -16,20 +16,3 @@ Avoiding overfitting through dimensionality reduction
 Balancing the dataset to prevent bias
 Implementing impurity metrics for both regression (MSE, MAE) and classification tasks (Gini, Entropy)
 The code is organized into classes for the decision tree, decision tree classifier, and decision tree regressor, each with their respective functions. Model performance was tested on the breast cancer dataset for classification and a toy dataset for regression.
-
-Classification performance metrics:
-
-Accuracy: 0.93
-
-Precision: 0.99
-
-Recall: 0.92
-
-Regression performance metrics:
-
-RMSE: 70.04
-
-MAE: 56.44
-
-R2: 0.68
-
