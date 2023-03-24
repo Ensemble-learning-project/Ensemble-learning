@@ -15,5 +15,5 @@ Handling missing values
 Avoiding overfitting through dimensionality reduction
 Balancing the dataset to prevent bias
 Implementing impurity metrics for both regression (MSE, MAE) and classification tasks (Gini, Entropy)
-The code is organized into classes for the decision tree, decision tree classifier, and decision tree regressor, each with their respective functions. Model performance was tested on the breast cancer dataset for classification and a toy dataset for regression.
+The code is organized into classes for the decision tree, decision tree classifier, and decision tree regressor, each with their respective functions. Model performance was tested on the breast cancer dataset for classification and California Housing for regression.
 
